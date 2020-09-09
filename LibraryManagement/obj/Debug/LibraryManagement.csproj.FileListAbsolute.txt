@@ -1,0 +1,27 @@
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.Cache
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.borrower_info.resources
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.login.resources
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.WelcomeWindow.resources
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.AdminWindow.resources
+C:\Users\joyba\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Transaction.resources
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.AdminWindow.resources
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.borrower_info.resources
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Login.resources
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Transaction.resources
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.WelcomeWindow.resources
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\Joy\Desktop\c#\C# final project\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
